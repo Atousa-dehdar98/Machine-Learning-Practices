@@ -19,3 +19,6 @@ An introductory classification exercise that builds a food-allergy prediction ta
 ## Run
 
 The dataset is large, so allow sufficient memory and time when loading it. Install Jupyter, Pandas, NumPy, and scikit-learn, then run the notebook from top to bottom.
+Load the data directly into your notebook using the following URL:
+https://claproduction.s3.eu-west-3.amazonaws.com/DataScience/3_classical_ml/food-allergy-analysis-Zenodo.csv
+
